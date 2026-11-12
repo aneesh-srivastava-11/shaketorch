@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShakeTorch</string>
+    <string name="notification_channel_name">ShakeTorch Background Service</string>
+    <string name="notification_channel_description">Notifies when shake detection is running in the background</string>
+    <string name="notification_title">ShakeTorch Active</string>
+    <string name="notification_content">Shake your phone to toggle the flashlight</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_toggle">Toggle</string>
+</resources>
+

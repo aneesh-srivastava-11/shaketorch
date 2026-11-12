@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="torch_primary">#FFD54F</color>
+    <color name="torch_primary_variant">#FFA000</color>
+    <color name="torch_background">#121212</color>
+    <color name="torch_surface">#1E1E1E</color>
+    <color name="torch_on_dark">#FFFFFF</color>
+    <color name="torch_glow">#FFE082</color>
+</resources>
+
